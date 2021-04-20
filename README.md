@@ -1,6 +1,6 @@
 🚧🚧🚧
 
-**Quirk is no longer being maintained.**
+**Sorry Quirk is no longer being maintained.**
 
 Quirk started as a little thing I made for myself as I started doing CBT. As I got better, I needed Quirk less. But at the same time, lots of other people had discovered Quirk and started picking it up. That meant more bug fixes, more features, and just more work to be done. I really couldn't keep it up well, especially with my main focus at the time (my day job). 
 
@@ -28,10 +28,10 @@ If you want to fork Quirk, you should fork off of [this commit](https://github.c
 ---
 
 <p align="center">
-<h1 align="center">✨🐙 quirk. </h1>
+<h1 align="center">✨🐙 Quirk.</h1>
 </p>
 <p align="center">
-  <a href="https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8">Download iOS</a> • <a href="https://play.google.com/store/apps/details?id=tech.econn.quirk">Download Android</a> • <a href="mailto:humans+github@quirk.fyi">Contact</a> • <a href="https://tinyletter.com/quirk">Newsletter</a>
+  <a href="https://itunes.apple.com/us/app/Quirk-cbt/id1447026451?mt=8">Download iOS</a> • <a href="https://play.google.com/store/apps/details?id=tech.econn.Quirk">Download Android</a> • <a href="mailto:humans+github@quirk.fyi">Contact</a> • <a href="https://tinyletter.com/quirk">Newsletter</a>
 <br><br>
 </p>
 
@@ -46,11 +46,11 @@ setting.
 
 ## How Quirk Supports Itself
 
-In order for Quirk to support itself, **it charges a small subscription fee.** Currently it's $5.99 / month in the US, which is roughly the cost of a cup of coffee. This helps pay for a full-time developer to make Quirk not-dead and generally good. 
+In order for Quirk to support itself, **Quirk charges a small subscription fee.** Currently it's $5.99 / month in USD, which is roughly the cost of a cup of coffee. This helps pay for a full-time developer to make Quirk not-dead and generally good. 
 
 ### The Survival Law of Product Design
 
-To understand _why_ we do a subscription, we can look to the Survival Law of Product Design, a fancy term I just made up. When you make a product, whatever keeps that product alive becomes the primary force of design. 
+To understand why we do a subscription, we can look to the Survival Law of Product Design, a fancy term I just made up. When you make a product, whatever keeps that product alive becomes the primary force of design. 
 
 For example, facebook.com is not Facebook's product, facebook.com/business/ads is Facebook's product. Because 0 dollars are made from facebook accounts, only from advertisers that pay to get access to those facebook accounts. The way you keep the lights on ultimately shapes the product you make. 
 
@@ -103,9 +103,9 @@ If you already have XCode installed with a simulator, you can just press `i` to 
 
 # Can I help?
 
-Of course!
+Definitely!
 
-**If you like the app,** go give it 5 stars! It helps more people find the app.
+**If you like the app,** please go give it 5 stars! It helps lots of people find the app.
 
 **If you're a mental health professional,** audit [the descriptions](https://github.com/Flaque/quirk/blob/master/src/locals/en.json) of the cognitive distortions. If you have suggestions, let me know and we'll change stuff!
 
@@ -121,10 +121,10 @@ Quirk's goal is to be both inviting and focused. It should be _really_ easy to e
 
 Quirk is built with two main goals in mind:
 
-- Don't be bloated
-- Don't be evil
+- Don't be BLOATED
+- Don't be  EVIL
 
-### Don't be bloated
+### Don't be BLOATED
 
 **Don't include features for one particular condition at the expense of other conditions.** For example, don't couple mood tracking to thought tracking. If a user _has_ to enter a mood in order to track a thought, then the entire app is ruined for people who use it for panic, OCD or another condition where mood isn't the primary focus.
 
@@ -134,7 +134,7 @@ Quirk is built with two main goals in mind:
 
 **Be quick and efficient.** Thoughts shouldn't take 5 minutes to enter and you should be able to skip fields if it's reasonable. Don't let the perfect be the enemy of the good.
 
-### Don't be Evil
+### I can not stress this enough so please please please don't be EVIL 
 
 **Thoughts are more valuable than passwords, treat them that way.** Most people would rather give over their passwords than their CBT thoughts. They're incredibly private, occasionally involve other people, and frequently are embarrassing.
 
@@ -180,4 +180,4 @@ A small amount of data has been corrupted in a recoverable way. The user still h
 
 Quirk is licensed under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), which guarantees end users the freedom to study, share, and modify the software.
 
-Note that this license **does not** give free reign to redistribute the name and branding of quirk. So if you'd like to publish your own version, please rename it to avoid end-user confusion.
+Note that this license **does not** give free reign to redistribute the name and branding of Quirk. So if you'd like to publish your own version, please rename it to avoid end-user confusion.
